@@ -2,7 +2,7 @@
 layout: post
 title:  全网最全Flutter常用工具类
 tag: [工具]
-date: 2019-08-06
+date: 2019-08-05
 ---
 
 
@@ -98,31 +98,7 @@ Map),判断两个List是否相等.<br>  9、EnDecodeUtil : md5加密，Base64加
 
 判断对象是否为空(String List Map),判断两个List是否相等.
 
-
-## 关于作者
-
-GitHub : [Sky24n](https://link.juejin.im/?target=https://github.com/Sky24n)<br> 
-简书     :
-[Sky24n](https://link.juejin.im/?target=https://www.jianshu.com/u/cbf2ad25d33a)<br>
-掘金     : [Sky24n](https://juejin.im/user/5b9e8a92e51d453df0440422/posts)<br> 
-Pub      :
-[Sky24n](https://link.juejin.im/?target=https://pub.flutter-io.cn/packages?q=email%3A863764940%40qq.com)<br>
-Email   : 863764940@qq.com
-
-## 项目示例
-
-GitHub :
-[flutter_demos](https://link.juejin.im/?target=https://github.com/Sky24n/flutter_wanandroid/tree/master/lib/demos)<br>
-APK      :[点击下载
-v0.2.1](https://link.juejin.im/?target=https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/flutter_wanandroid.apk)<br>
-Android扫码下载APK: 
-
-![](https://user-gold-cdn.xitu.io/2019/1/11/1683aec5153738ca?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
-<span class="figcaption_hack"></span>
-
-
-
-## Screenshot
+  
 
   
  
